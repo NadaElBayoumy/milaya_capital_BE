@@ -1,0 +1,3 @@
+
+[07-Dec-2023 08:06:40 UTC] Failed to send email
+[07-Dec-2023 09:24:00 UTC] PHP Notice:  Function map_meta_cap was called incorrectly. The post type contact_us is not registered, so it may not be reliable to check the capability edit_post against a post of that type. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in C:\xampp\htdocs\milayacapital\wp-includes\functions.php on line 6031
